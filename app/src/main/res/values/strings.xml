@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Urban_Module11_SerializableParcelable</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="address">Адрес</string>
+    <string name="telephone">Телефон</string>
+    <string name="save">Сохранить</string>
+    <string name="person_card">Карточка персоны</string>
+    <string name="person_card_text">
+        Имя: %1$s\n
+        Фамилия: %2$s\n
+        Адрес: %3$s\n
+        Телефон: %4$s\n
+    </string>
+</resources>
